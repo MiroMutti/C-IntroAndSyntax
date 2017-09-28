@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

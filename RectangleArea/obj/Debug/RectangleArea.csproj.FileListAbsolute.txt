@@ -1,0 +1,5 @@
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\RectangleArea\obj\Debug\RectangleArea.pdb

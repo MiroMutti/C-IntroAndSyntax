@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\IntroAndSyntax\CharacterStats\obj\Debug\CharacterStats.pdb
